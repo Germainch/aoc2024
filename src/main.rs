@@ -1,5 +1,6 @@
 mod day2;
 mod day3;
+mod day04;
 
 use std::cmp::Ordering;
 use std::collections::HashMap;
